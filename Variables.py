@@ -9,5 +9,5 @@ hi = 'not'
 
 print(hi, yo)
 
-hello_world = 'hello nics'
+hello_world = 'hello nic'
 print(hello_world)
