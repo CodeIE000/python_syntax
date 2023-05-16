@@ -1,4 +1,4 @@
 name = input('name: ')
 age = input('age: ')
 
-print('Hello', name, 'you are', age, 'yeara old')
+print('Hello', name, 'you are', age, 'years old')
